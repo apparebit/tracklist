@@ -1,9 +1,37 @@
 // (C) 2020 Robert Grimm
 
-const { values: valuesOf } = Object;
+// Running This Script With and Without Module System
+// --------------------------------------------------
+//
+// The JXA runtime does not support CommonJS or ESM modules. Yet the code for
+// accessing tracks via JXA as well as the code for sorting and printing tracks
+// is fairly short and straight-forward. Consequently, it makes sense to place
+// all of it into the same module, i.e., this one.
+//
+// However, the parser for accessing tracks via XML property list is fairly
+// substantial and also depends on a third-party package, i.e., the expat XML
+// parsing engine, which is written in C. In other words, the code for accessing
+// tracks via XML property list must utilize CommonJS or ESM and also requires
+// the ability to load native code (or WASM). But it too needs to sort and print
+// tracks, thus raising the question of how to support both from within the same
+// module.
+//
+// With CommonJS, that might just reduce to calling `require()` from within
+// `tracksViaXml()`. With ESM, similarly just calling `import()` does not work.
+// The mere presence of that special form changes the JavaScript parsing goal
+// from script to module, triggering an error in JXA. To still leverage the
+// declarative features of ESM, notably in `parse.js`, this module uses a nice
+// little hack: The call to the `import()` special form is only present as text,
+// which is turned into executable code on demand, at runtime. As it turns out,
+// the function constructor and `eval()` do have legitimate uses!
 
 const isObject = (value) => typeof value === 'object';
 const isFunction = (value) => typeof value === 'function';
+const { values: valuesOf } = Object;
+
+// -----------------------------------------------------------------------------
+// Accessing Tracks via JXA
+
 const isJxa = () => {
   try {
     return (
@@ -34,6 +62,9 @@ const tracksViaJxa = () => {
   }));
 };
 
+// -----------------------------------------------------------------------------
+// Accessing Tracks via XML Property List
+
 const tracksViaXml = async () => {
   const load = new Function('spec', 'return import(spec);');
   const { readFile } = await load('fs/promises');
@@ -58,6 +89,9 @@ const tracksViaXml = async () => {
   }));
 };
 
+// -----------------------------------------------------------------------------
+// Sorting and Printing
+
 const collator = new Intl.Collator({
   sensitivity: 'base',
   ignorePunctuation: true,
@@ -78,6 +112,8 @@ const formatTrack = (track) =>
   `${track.artist} ▻ ${track.album} ▻ ${track.name}`;
 const printTracks = (tracks) =>
   tracks.forEach((t) => console.log(formatTrack(t)));
+
+// -----------------------------------------------------------------------------
 
 const main = async () => {
   const tracks = isJxa() ? tracksViaJxa() : await tracksViaXml();
