@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-09-09T10:11:28Z</date>
+	<key>Application Version</key><string>1.0.6.10</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/rgrimm/Music/</string>
+	<key>Library Persistent ID</key><string>EB907052B9AC8F39</string>
+	<key>Tracks</key>
+	<dict>
+		<key>215</key>
+		<dict>
+			<key>Track ID</key><integer>215</integer>
+			<key>Name</key><string>Fog</string>
+			<key>Artist</key><string>Flame 1</string>
+			<key>Album Artist</key><string>Flame 1</string>
+			<key>Album</key><string>Fog / Shrine</string>
+			<key>Kind</key><string>Apple Lossless audio file</string>
+			<key>Size</key><integer>58705999</integer>
+			<key>Total Time</key><integer>313270</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-03-30T13:35:20Z</date>
+			<key>Date Added</key><date>2018-03-30T18:39:37Z</date>
+			<key>Bit Rate</key><integer>2116</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://flameone.bandcamp.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3605268499</integer>
+			<key>Play Date UTC</key><date>2018-03-30T19:28:19Z</date>
+			<key>Persistent ID</key><string>B563F0DC6BAC1D6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/rgrimm/Music/Music/Flame%201/Fog%20_%20Shrine/01%20Fog.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>217</key>
+		<dict>
+			<key>Track ID</key><integer>217</integer>
+			<key>Name</key><string>Shrine</string>
+			<key>Artist</key><string>Flame 1</string>
+			<key>Album Artist</key><string>Flame 1</string>
+			<key>Album</key><string>Fog / Shrine</string>
+			<key>Kind</key><string>Apple Lossless audio file</string>
+			<key>Size</key><integer>64556426</integer>
+			<key>Total Time</key><integer>353821</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-03-30T13:35:20Z</date>
+			<key>Date Added</key><date>2018-03-30T18:40:27Z</date>
+			<key>Bit Rate</key><integer>2116</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://flameone.bandcamp.com</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3605268853</integer>
+			<key>Play Date UTC</key><date>2018-03-30T19:34:13Z</date>
+			<key>Persistent ID</key><string>79E25B69584A69AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/rgrimm/Music/Music/Flame%201/Fog%20_%20Shrine/02%20Shrine.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>252</key>
+		<dict>
+			<key>Track ID</key><integer>252</integer>
+			<key>Name</key><string>Crazy In Love (Homecoming Live)</string>
+			<key>Artist</key><string>Beyoncé</string>
+			<key>Album Artist</key><string>Beyoncé</string>
+			<key>Composer</key><string>Beyoncé, Rich Harrison, Shawn Carter &#38; Eugene Record</string>
+			<key>Album</key><string>HOMECOMING: THE LIVE ALBUM</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6291896</integer>
+			<key>Total Time</key><integer>167347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>40</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-04-24T00:24:29Z</date>
+			<key>Date Added</key><date>2019-04-24T00:24:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Homecoming Live)</string>
+			<key>Release Date</key><date>2019-04-17T07:00:00Z</date>
+			<key>Normalization</key><integer>1768</integer>
+			<key>Sort Album</key><string>HOMECOMING: THE LIVE ALBUM</string>
+			<key>Sort Artist</key><string>Beyoncé</string>
+			<key>Sort Name</key><string>Crazy In Love (Homecoming Live)</string>
+			<key>Persistent ID</key><string>247979196C3601D5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/rgrimm/Music/Music/Beyonce%CC%81/HOMECOMING_%20THE%20LIVE%20ALBUM/02%20Crazy%20In%20Love%20(Homecoming%20Live).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>354</key>
+		<dict>
+			<key>Track ID</key><integer>354</integer>
+			<key>Name</key><string>Róisín Murphy - Incapable [Bitter End]-zwtI8G_7ZrA</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8168831</integer>
+			<key>Total Time</key><integer>505010</integer>
+			<key>Date Modified</key><date>2019-05-17T12:21:46Z</date>
+			<key>Date Added</key><date>2019-06-03T21:37:08Z</date>
+			<key>Bit Rate</key><integer>127</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3642430909</integer>
+			<key>Play Date UTC</key><date>2019-06-03T22:21:49Z</date>
+			<key>Persistent ID</key><string>01573A8CE599CD62</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/rgrimm/Music/Music/Unknown%20Artist/Unknown%20Album/Ro%CC%81isi%CC%81n%20Murphy%20-%20Incapable%20%5BBitter%20End%5D-zwtI8G_7ZrA.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>427</key>
+		<dict>
+			<key>Track ID</key><integer>427</integer>
+			<key>Name</key><string>NICE</string>
+			<key>Artist</key><string>THE CARTERS</string>
+			<key>Album Artist</key><string>THE CARTERS</string>
+			<key>Composer</key><string>Pharrell Williams, Beyoncé, S. Carter, Denisia Andrews &#38; Brittany Coney</string>
+			<key>Album</key><string>EVERYTHING IS LOVE</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8270349</integer>
+			<key>Total Time</key><integer>233672</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-02-13T05:23:09Z</date>
+			<key>Date Added</key><date>2018-06-18T13:17:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-06-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>EVERYTHING IS LOVE</string>
+			<key>Sort Album Artist</key><string>CARTERS</string>
+			<key>Sort Artist</key><string>CARTERS</string>
+			<key>Sort Name</key><string>NICE</string>
+			<key>Persistent ID</key><string>B0321D889A22D699</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>459</key>
+		<dict>
+			<key>Track ID</key><integer>459</integer>
+			<key>Name</key><string>Quicksand</string>
+			<key>Artist</key><string>Björk</string>
+			<key>Album Artist</key><string>Björk</string>
+			<key>Composer</key><string>Björk</string>
+			<key>Album</key><string>Vulnicura</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8045090</integer>
+			<key>Total Time</key><integer>225230</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-02-13T05:23:09Z</date>
+			<key>Date Added</key><date>2015-01-21T04:28:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-01-20T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vulnicura</string>
+			<key>Sort Artist</key><string>Björk</string>
+			<key>Sort Name</key><string>Quicksand</string>
+			<key>Persistent ID</key><string>F97A48FFA5392EFE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>497</key>
+		<dict>
+			<key>Track ID</key><integer>497</integer>
+			<key>Name</key><string>Knee Play 4 (feat. Robert Wilson)</string>
+			<key>Artist</key><string>The Philip Glass Ensemble, Philip Glass, Michael Riesman &#38; Robert Wilson</string>
+			<key>Album Artist</key><string>The Philip Glass Ensemble, Philip Glass, Michael Riesman &#38; Robert Wilson</string>
+			<key>Composer</key><string>Philip Glass</string>
+			<key>Album</key><string>Philip Glass: Einstein on the Beach (feat. Robert Wilson)</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>17052807</integer>
+			<key>Total Time</key><integer>439573</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2019-02-13T05:23:09Z</date>
+			<key>Date Added</key><date>2012-09-24T18:46:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1979-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Philip Glass: Einstein on the Beach (feat. Robert Wilson)</string>
+			<key>Sort Album Artist</key><string>Philip Glass Ensemble, Philip Glass, Michael Riesman &#38; Robert Wilson</string>
+			<key>Sort Artist</key><string>Philip Glass Ensemble, Philip Glass, Michael Riesman &#38; Robert Wilson</string>
+			<key>Sort Name</key><string>Knee Play 4 (feat. Robert Wilson)</string>
+			<key>Persistent ID</key><string>1285610D781B4070</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>64</integer>
+			<key>Playlist Persistent ID</key><string>0000000000000005</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>223</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>830</integer>
+			<key>Playlist Persistent ID</key><string>17B6FCC939159621</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>901</integer>
+			<key>Playlist Persistent ID</key><string>E5E585205190D952</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Classical Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>1154</integer>
+			<key>Playlist Persistent ID</key><string>6EC058CD04B49837</string>
+			<key>Distinguished Kind</key><integer>206</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>579</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
