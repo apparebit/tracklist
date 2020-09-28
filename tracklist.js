@@ -44,7 +44,9 @@ const tracksViaXml = async () => {
     bytes = await readFile(process.argv[2]);
   } catch (x) {
     console.log(`Could not read Music.app library (${x.message})!`);
-    console.log(`Please provide filename for library as argument.`);
+    console.log(
+      `Please provide filename for library as command line argument.`
+    );
     return [];
   }
 
