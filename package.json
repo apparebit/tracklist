@@ -1,0 +1,27 @@
+{
+  "name": "@grr/tracklist",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Robert Grimm <apparebit@gmail.com> (https://apparebit.com/)",
+  "repository": "https://github.com/apparebit/tracklist.git",
+  "license": "MIT",
+  "keywords": [
+    "macOS",
+    "Music.app",
+    "library",
+    "property list",
+    "tracks",
+    "track listing",
+    "inventory"
+  ],
+  "dependencies": {
+    "node-expat": "2.3.18"
+  },
+  "bin": {
+    "tracklist": "./tracklist",
+    "tracklist-jxa": "./tracklist-jxa"
+  },
+  "scripts": {
+    "test": "./test/run.sh"
+  }
+}
