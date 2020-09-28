@@ -1,5 +1,6 @@
 {
   "name": "@grr/tracklist",
+  "private": "false",
   "version": "1.0.0",
   "type": "module",
   "author": "Robert Grimm <apparebit@gmail.com> (https://apparebit.com/)",
