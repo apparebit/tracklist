@@ -17,11 +17,9 @@
   "dependencies": {
     "node-expat": "2.3.18"
   },
-  "bin": {
-    "tracklist": "./tracklist",
-    "tracklist-jxa": "./tracklist-jxa"
-  },
   "scripts": {
-    "test": "./test/run.sh"
+    "test": "./test/run.sh",
+    "tracklist-xml": "node ./tracklist.js",
+    "tracklist-jxa": "osascript -l JavaScript ./tracklist.js"
   }
 }
